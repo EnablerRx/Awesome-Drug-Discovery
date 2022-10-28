@@ -2,6 +2,9 @@
 ## Survey
 - **Artificial Intelligence in Drug Discovery: Applications and Techniques** [[paper]](https://arxiv.org/pdf/2106.05386.pdf)
 
+## Nature & Science
+- **Minimal-uncertainty prediction of general drug-likeness based on Bayesian neural networks** Wiktor Beker, Agnieszka Wołos, Sara Szymkuć and Bartosz A.Grzybowski [[paper]](https://www.nature.com/articles/s42256-020-0209-y)
+
 ## [ACL 2022](https://www.2022.aclweb.org/papers) 
 Key words: medical
 - **CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark.** Ningyu Zhang, Mosha Chen, Zhen Bi, Xiaozhuan Liang, Lei Li, Xin Shang, Kangping Yin, Chuanqi Tan, Jian Xu, Fei Huang, Luo Si, Yuan Ni, Guotong Xie, Zhifang Sui(Peking University), Baobao Chang(Peking University), Hui Zong, Zheng Yuan(Tsinghua University), Linfeng Li, Jun Yan, Hongying ZAN, Kunli Zhang, Buzhou Tang, Qingcai Chen [[paper]](https://arxiv.org/pdf/2106.08087.pdf) [[code]](https://github.com/CBLUEbenchmark/CBLUE) [[tool]](https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414&lang=en-us)
